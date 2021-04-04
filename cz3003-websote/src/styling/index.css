@@ -1,0 +1,12 @@
+/* body {
+    background-color: antiquewhite;
+} */
+
+.mainpage{
+    text-align: center;
+    font-size: 2vw;
+}
+
+.mainpage span{
+    font-weight: bold;
+}
